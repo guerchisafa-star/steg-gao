@@ -1,0 +1,115 @@
+- Building...
+
+Initial chunk files | Names                      |  Raw size
+polyfills.js        | polyfills                  |  88.09 kB | 
+main.js             | main                       |  14.80 kB | 
+styles.css          | styles                     |   5.54 kB | 
+chunk-ZZ7BIV5L.js   | -                          |   2.54 kB | 
+chunk-4E2JY3TT.js   | -                          | 754 bytes | 
+chunk-BMZU5GEB.js   | -                          | 307 bytes | 
+
+                    | Initial total              | 112.01 kB
+
+Lazy chunk files    | Names                      |  Raw size
+chunk-2LVOD5WO.js   | directeur-list-component   |  28.78 kB | 
+chunk-7MZVBV4Y.js   | chauffeur-form-component   |  20.62 kB | 
+chunk-OWLRDC5U.js   | vehicule-form-component    |  15.32 kB | 
+chunk-YKR7XQRC.js   | region-detail-component    |  11.16 kB | 
+chunk-YZ5QOAU3.js   | chauffeur-detail-component |  10.80 kB | 
+chunk-LDEJ5ZRF.js   | login-component            |  10.02 kB | 
+chunk-OE7VVO6G.js   | region-form-component      |   9.88 kB | 
+chunk-5RLP4IJ4.js   | chauffeur-list-component   |   9.87 kB | 
+chunk-3M7XNTMO.js   | vehicule-list-component    |   9.68 kB | 
+chunk-6ZK52KFZ.js   | vehicule-detail-component  |   8.90 kB | 
+chunk-WZUAZF3P.js   | region-list-component      |   7.46 kB | 
+chunk-AGNKXL3I.js   | placeholder-component      |   2.33 kB | 
+chunk-HLSSABZP.js   | -                          |   1.42 kB | 
+chunk-PLIBP6MD.js   | -                          |   1.33 kB | 
+chunk-OFMJ563S.js   | -                          |   1.26 kB | 
+
+Application bundle generation complete. [3.991 seconds]
+
+Watch mode enabled. Watching for file changes...
+  ➜  Local:   http://localhost:4200/
+  ➜  press h + enter to show help
+- Changes detected. Rebuilding...
+
+Initial chunk files | Names                      |  Raw size
+main.js             | main                       |  14.80 kB | 
+chunk-23UEOZCW.js   | -                          |   2.54 kB | 
+chunk-MFSRU4HL.js   | -                          | 187 bytes | 
+
+Lazy chunk files    | Names                      |  Raw size
+chunk-SYWR4WVN.js   | directeur-list-component   |  28.78 kB | 
+chunk-SOUASUH3.js   | chauffeur-form-component   |  20.62 kB | 
+chunk-C6MS4Y7J.js   | vehicule-form-component    |  15.32 kB | 
+chunk-TFYJSTZT.js   | region-detail-component    |  11.16 kB | 
+chunk-GTMKP5R6.js   | chauffeur-detail-component |  10.80 kB | 
+chunk-H37S6E6Y.js   | login-component            |  10.02 kB | 
+chunk-INRVUBL7.js   | region-form-component      |   9.88 kB | 
+chunk-O3TV3SDI.js   | chauffeur-list-component   |   9.87 kB | 
+chunk-3QAO4Q5F.js   | vehicule-list-component    |   9.68 kB | 
+chunk-KACONPS2.js   | vehicule-detail-component  |   8.90 kB | 
+chunk-MJ66S4UM.js   | region-list-component      |   7.46 kB | 
+chunk-37EIKXPA.js   | -                          |   1.42 kB | 
+chunk-PGLIKLNY.js   | -                          |   1.33 kB | 
+chunk-LSV7B7EJ.js   | -                          |   1.26 kB | 
+
+Application bundle generation complete. [0.586 seconds]
+
+Page reload sent to client(s).
+- Changes detected. Rebuilding...
+
+Initial chunk files | Names           | Raw size
+main.js             | main            | 14.80 kB | 
+chunk-RJC3Q5SE.js   | -               |  2.29 kB | 
+
+Lazy chunk files    | Names           | Raw size
+chunk-ROSAQRYD.js   | login-component | 10.02 kB | 
+
+Application bundle generation complete. [0.346 seconds]
+
+Page reload sent to client(s).
+- Changes detected. Rebuilding...
+
+Initial chunk files | Names                    | Raw size
+main.js             | main                     | 14.80 kB | 
+
+Lazy chunk files    | Names                    | Raw size
+chunk-O7OYGKXZ.js   | directeur-list-component | 27.12 kB | 
+chunk-RMJGUQAN.js   | region-form-component    | 14.21 kB | 
+chunk-O5JSSG33.js   | -                        |  1.41 kB | 
+
+Application bundle generation complete. [1.490 seconds]
+
+Page reload sent to client(s).
+- Changes detected. Rebuilding...
+
+Initial chunk files | Names                 | Raw size
+main.js             | main                  | 14.80 kB | 
+
+Lazy chunk files    | Names                 | Raw size
+chunk-PG5XOHRC.js   | region-list-component | 10.85 kB | 
+
+Application bundle generation complete. [1.374 seconds]
+
+Page reload sent to client(s).
+- Changes detected. Rebuilding...
+
+Initial chunk files | Names                    | Raw size
+main.js             | main                     | 14.80 kB | 
+
+Lazy chunk files    | Names                    | Raw size
+chunk-X3YBULGC.js   | directeur-list-component | 29.21 kB | 
+
+Application bundle generation complete. [0.672 seconds]
+
+Page reload sent to client(s).
+- Changes detected. Rebuilding...
+
+Initial chunk files | Names | Raw size
+main.js             | main  | 13.96 kB | 
+
+Application bundle generation complete. [0.845 seconds]
+
+Page reload sent to client(s).

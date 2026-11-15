@@ -1,0 +1,15 @@
+# Backend
+backend-steg/target/
+backend-steg/.mvn/wrapper/maven-wrapper.jar
+backend-steg/*.log
+backend-steg/.idea/
+backend-steg/*.iml
+
+# Frontend
+frontend-steg/node_modules/
+frontend-steg/dist/
+frontend-steg/.angular/cache/
+
+# OS
+.DS_Store
+Thumbs.db
